@@ -42,15 +42,18 @@
   gap: 4px;
 }
  .buttons{
-   padding: 5px;
+   padding: 10px;
    font-size: 25px;
    border-radius: 10px;
  }
 .login{
   background-color: #ffffff;
+  border:#ec9006 1px solid;
+
 }
 .sign_up{
   background-color: #ec9006;
+  border: none;
 }
 h1{
   text-align: center;
